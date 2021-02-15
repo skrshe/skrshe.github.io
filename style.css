@@ -4,9 +4,6 @@ body {
 	color: #ddd;
 	background-color: #333;
 }
-pre {
-font-family: Ubuntu, Mono, sans-serif;
-}
 header h1 {
 	font-size: 3.5em;
 }
@@ -27,14 +24,14 @@ ul.postlist, ul.archivelist {
 	list-style: none;
 }
 h1 {
-	color: crimson;
+	color: cyan;
 }
 h1 a {
 	text-decoration: none;
-	color: crimson;
+	color: cyan;
 }
 a {
-	color: crimson;
+	color: cyan;
 }
 header #byline {
 	font-size: 0.8em;
