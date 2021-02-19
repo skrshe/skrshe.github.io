@@ -1,6 +1,6 @@
 body {
 	font-family: Ubuntu, Calibri, sans-serif;
-	font-size: 5em;
+	font-size: 2em;
 	color: #ddd;
 	background-color: #333;
 }
@@ -21,7 +21,6 @@ article p {
 	text-justify: inter-word
 }
 pre {
-    text-align: justify;
 }
 ul.postlist, ul.archivelist {
 	list-style: none;
