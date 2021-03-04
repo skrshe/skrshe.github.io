@@ -1,6 +1,6 @@
 [submodule "boop"]
 	path = boop
-	url = git@github.com:skrshe/boop
+	url = https://github.com/skrshe/boop
 [submodule "jnl"]
 	path = jnl
 	url = git@github.com:skrshe/jnl
