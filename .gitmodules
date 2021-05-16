@@ -3,4 +3,4 @@
 	url = https://github.com/skrshe/boop
 [submodule "jnl"]
 	path = jnl
-	url = https://github.com/skrshe/jnl
+	url = git@github.com:skrshe/jnl
