@@ -1,2 +1,2 @@
-# skrshe.github.io
+# <skrshe.dev>
 web stack for my website
